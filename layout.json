@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "height": 80,
+            "name": "Sofa",
+            "symbol": "S",
+            "width": 150,
+            "x": 50,
+            "y": 40
+        },
+        {
+            "height": 120,
+            "name": "Bed",
+            "symbol": "B",
+            "width": 180,
+            "x": 390,
+            "y": 260
+        },
+        {
+            "height": 80,
+            "name": "Table",
+            "symbol": "T",
+            "width": 100,
+            "x": 230,
+            "y": 210
+        },
+        {
+            "height": 40,
+            "name": "TVStand",
+            "symbol": "V",
+            "width": 140,
+            "x": 520,
+            "y": 40
+        },
+        {
+            "height": 200,
+            "name": "Cupboard",
+            "symbol": "U",
+            "width": 80,
+            "x": 660,
+            "y": 200
+        },
+        {
+            "height": 50,
+            "name": "Chair",
+            "symbol": "C",
+            "width": 50,
+            "x": 240,
+            "y": 340
+        }
+    ],
+    "room_height": 600,
+    "room_width": 800
+}
